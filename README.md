@@ -7,7 +7,6 @@ I love building random stuff most of which is private waiting to be public after
 - ⚙️ Love Web Development
 - 🎶 I never code without music, silence kills me
 - 🏸 Love to play badminton
-- 👾 Valorant (Gold peak btw)
 
 <!--
 **Immortal000/Immortal000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
